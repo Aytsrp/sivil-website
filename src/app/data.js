@@ -1,37 +1,28 @@
-import Purple from "/public/assets/purple.png";
-import Orange from "/public/assets/orange.png";
-import Blue from "/public/assets/blue.png";
+import Wika from "/public/assets/wika.png";
+import Adhi from "/public/assets/adhi.png";
+import Pp from "/public/assets/pp.png";
 
 const data = [
   {
     id: 1,
-    photo: Purple,
-    name: "John Doe I",
-    desc: "Lorem ipsum dolor sit amet",
-    link: "/john1",
-    whatsapp: "",
-    instagram: "",
-    email: "",
+    photo: Wika,
+    name: "PT Wijaya Karya (Persero) Tbk",
+    desc: "PT Wijaya Karya merupakan salah satu perusahaan konstruksi terbesar di Indonesia. Mereka terlibat dalam berbagai proyek besar seperti infrastruktur, gedung, dan industri energi. Rating 4,8/5",
+    link: "/wika",
   },
   {
     id: 2,
-    photo: Orange,
-    name: "John Doe II",
-    desc: "Lorem ipsum dolor sit amet",
-    link: "/john2",
-    whatsapp: "",
-    instagram: "",
-    email: "",
+    photo: Adhi,
+    name: "PT Adhi Karya (Persero) Tbk",
+    desc: "Adhi Karya bergerak di sektor konstruksi, EPC (Engineering Procurement, Construction), dan investasi. Proyek terkenal mereka termasuk pembangunan LRT Jabodetabek.  Rating 4,5/5",
+    link: "/adhi",
   },
   {
     id: 3,
-    photo: Blue,
-    name: "John Doe III",
-    desc: "Lorem ipsum dolor sit amet",
-    link: "/john3",
-    whatsapp: "",
-    instagram: "",
-    email: "",
+    photo: Pp,
+    name: "PT PP (Persero) Tbk",
+    desc: "Dikenal sebagai salah satu raksasa di bidang konstruksi dengan aset besar. Mereka menangani proyek infrastruktur, gedung bertingkat, dan properti.  Rating 4,6/5",
+    link: "/pp",
   },
 ];
 export default data;

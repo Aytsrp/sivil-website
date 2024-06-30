@@ -5,7 +5,7 @@ const Navbar = () => {
     <>
       <div className="navbar bg-base-100 px-4">
         <div className="flex-1">
-          <Link href="/" className="text-xl font-bold">Profile Website</Link>
+          <Link href="/" className="text-xl font-bold">SIVIL</Link>
         </div>
         <div className="flex-none">
           <label className="swap swap-rotate">
